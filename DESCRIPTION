@@ -1,0 +1,9 @@
+Package: LogACD
+Type: Package
+Title: LogACD-EF Package
+Version: 0.1.0
+Author: Your Name
+Maintainer: John Doe <johndoe@example.com>
+Description: A brief description of the package.
+License: What license it uses
+
